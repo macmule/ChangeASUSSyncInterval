@@ -3,7 +3,7 @@
 #
 # More information: http://macmule.com/2013/12/22/how-to-change-the-apple-software-update-server-sync-interval/
 #
-# GitRepo: https://github.com/macmule/DeleteLoginwindowPlistShowInputMenuKey
+# GitRepo: https://github.com/macmule/ChangeASUSSyncInterval/
 #
 # License: http://macmule.com/license/
 #
